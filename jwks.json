@@ -15,6 +15,14 @@
       "kid": "CleHsmBeneficiaryToken",
       "n": "o5HvnAp_mgT5yc72aofjjeazF5iqWVheZFBWr7TPKxKf2XBUjOL-HAd5sRZUmyxUaPBcTFNBwy-kzjWdcNwWUGDF8qj0RoHfl4RRyzFGan0S39hU1kufWeeqbtg8A2gKcS7y-oV26K0zpirAW9Tmjgt6CT9w26PBuK11sN1jUh2iNRWt-nNWbaclsrsIDv_PmnOzX2aejHtjK3FymUfHkDnVC67zmWxUzlkpWg0n8Wh4fTTT2a8ZKjriqVw3OBiLMWfzCQFoEtkeevrmjXgEBpS96hYz80Jl_DOVUWLIWVwV3hMTe7GHg41uQzG-fq6an5S3-4eIlY-n6cnKL4QdWQ",
       "e": "AQAB"
+    },
+        {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS256",
+      "kid": "BPCE_beneficiary_public_key_id_1",
+      "n": "nuNcdvcVyzTIcENFfW7AYpZu52cwUNnO3gPqEWbdSGfGO8MGjih33ibNsKWxWwsVQl9BmJf-chMQZH8F4b5It5hX_000pp0FV876qjk1wBpNXznKz4YAsZKHveRu7fQHY7tkd0F4IpTgXZzG3zUb9sUzZ06kXPx5oAydIuvIy8PUgrBHwO3PKtY0I5YIbJdFGZbH451C68MvyZjv6PWBjMNg36IyIG9d0mXRSv3SKSTGSvy1hSH6EvSe5_6avI7Cr3-ZgzIt7QRA_mQjfV-GeYbIv51N343R7CrTcO3mlWZ3a0ZlRw7i5w5aY042yuBy1C_S-ogHpDUz4RZdJvpLszuu7R5BddrKGMWhnyqatrZJo1rFzyO088zvLC6yscqSmPzifWO5Hw1UBYT2fjk18YVwn99c3AMe8G3BLGfMIOtdjmK7FZR-O0FRihHOOX6GriN8WHIa1lnd4UNvjop-4tTnLDRHuj-uVHF8wg1dJi1azPSpNoYU09x8OXWvNvbH",
+      "e": "AQAB"
     }
   ]
 }
